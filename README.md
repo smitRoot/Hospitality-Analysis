@@ -5,6 +5,23 @@
 
 ---
 
+Navigation Instructions
+The project dashboard includes three main menus on the home page:
+
+Home: This is the default landing page where you will see the key metrics and visualizations related to AtliQ Grands' revenue performance.
+
+Booking: This menu allows you to explore booking data, including the most popular room types and booking trends across various platforms.
+
+Revenue: This section provides detailed insights into revenue generation, including city-wise earnings, revenue per available room (RevPAR), and other financial metrics.
+
+You can navigate to any of these sections by clicking on the respective menu item at the home page.
+
+Additionally, to enter the Home Page from anywhere on the dashboard, simply click on the AtliQ Grands logo at the top left corner. This will bring you back to the main page with an overview of key metrics and findings.
+
+
+
+
+
 ### Project Overview
 
 In the competitive and fast-paced world of luxury hospitality, AtliQ Grands, a renowned 5-star hotel chain, was facing significant challenges in revenue generation. To tackle these challenges and help AtliQ Grands enhance its market position, I embarked on a data-driven project to provide actionable insights that would guide revenue-boosting strategies. This project involved the analysis of various key datasets, leveraging data analytics to optimize revenue generation and identify key trends within the hospitality domain.
